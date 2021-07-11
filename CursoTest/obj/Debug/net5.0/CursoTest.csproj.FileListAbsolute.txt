@@ -227,3 +227,4 @@ C:\Users\Micro-1\source\repos\CursoMVC\CursoTest\obj\Debug\net5.0\CursoTest.dll
 C:\Users\Micro-1\source\repos\CursoMVC\CursoTest\obj\Debug\net5.0\ref\CursoTest.dll
 C:\Users\Micro-1\source\repos\CursoMVC\CursoTest\obj\Debug\net5.0\CursoTest.pdb
 C:\Users\Micro-1\source\repos\CursoMVC\CursoTest\obj\Debug\net5.0\CursoTest.genruntimeconfig.cache
+C:\Users\Micro-1\source\repos\CursoMVC\CursoTest\bin\Debug\net5.0\CursoAPI.StaticWebAssets.xml
